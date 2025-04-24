@@ -1,67 +1,40 @@
-# 📘 Descrição do Domínio - Sistema de Gestão de Projetos Gamificada
+# SprintQuest
 
-O sistema tem como foco equipes de desenvolvimento de software que seguem metodologias ágeis, com base no **Scrumban**. O objetivo é tornar a gestão de projetos mais engajadora, atribuindo pontos e recompensas conforme tarefas são concluídas.
+Uma plataforma voltada para equipes de desenvolvimento ágil, que une metodologias como **Scrumban** à gamificação de tarefas e interações. O sistema promove engajamento através de pontos, desafios, conquistas e rankings, tornando a gestão de projetos mais divertida e produtiva.
 
-## 🧑‍🤝‍🧑 Equipe
-- Conjunto de desenvolvedores organizados para trabalhar em um ou mais projetos.
-- Possui um **Líder** que gerencia etapas, tarefas e progresso.
-- Membros acumulam pontos conforme completam desafios.
-- A equipe compete no **ranking geral** com outras equipes da plataforma.
+## Sobre
 
-## 📁 Projeto
-- Cada equipe pode ter múltiplos projetos em andamento.
-- Um projeto segue o modelo do Scrumban, com etapas definidas em um **quadro kanban**.
-- Cada projeto possui **etapas**, **tarefas**, e **desafios internos** que rendem pontos.
+O sistema permite a criação de projetos, etapas e tarefas de forma visual no estilo *Kanban*. Membros da equipe acumulam pontos ao concluir tarefas e desafios, sobem no ranking, recebem recompensas e ganham distintivos por suas conquistas. Líderes de equipe têm visão geral da performance e podem fornecer feedbacks e distribuir bônus.
 
-## 📦 Etapa
-- Uma etapa representa uma fase do projeto, como "Planejamento", "Execução", "Revisão".
-- Contém tarefas e desafios atribuídos a membros da equipe.
-- Tem prazos definidos e contribui para o progresso geral do projeto.
+## 🔧 Funcionalidades Principais
 
-## 🧩 Desafio
-- Desafios são missões extras com critérios definidos.
-  - Ex: "Finalizar tarefa em até 2 dias", "Realizar 3 revisões de código", "Cobertura de testes > 80%".
-- Cada desafio possui uma pontuação.
-- Podem ter pré-requisitos para serem liberados.
+1. **Criação de projetos** com etapas baseadas em Scrumban
+2. **Quadro Kanban** para visualização e movimentação de tarefas
+3. **Desafios personalizados** com critérios de pontuação
+4. **Sistema de pontuação** por complexidade e tipo de tarefa
+5. **Ranking semanal e mensal** entre membros e equipes
+6. **Desbloqueio de recompensas** (cupons, benefícios, etc.)
+7. **Sistema de conquistas** com distintivos simbólicos
+8. **Feedbacks positivos** que geram bônus de motivação
 
-## 🏆 Pontuação
-- Cada membro acumula pontos ao concluir tarefas e desafios.
-- A pontuação individual contribui para o total da equipe.
-- A pontuação pode variar por tipo de tarefa (complexidade) ou desafio.
+## 👨‍👩‍👧‍👦 Time de Desenvolvimento
 
-## 🎁 Recompensas
-- Atingindo metas de pontuação, os membros podem desbloquear **recompensas**:
-  - Cupons de iFood
-  - Dinheiro (Pix)
-  - Benefícios internos (ex: folga, destaque)
-- Recompensas são gerenciadas pelo administrador do sistema.
+Arthur Suzuki
 
-## 🏅 Conquistas
-- São marcos desbloqueáveis, como:
-  - “Primeiro Sprint Finalizado”
-  - “Desafio épico concluído”
-  - “5 revisões de código em uma semana”
-- Não rendem pontos, mas dão **distintivos** e prestígio no ranking.
+Arthur Freire
 
-## 📊 Ranking
-- O sistema calcula rankings semanais e mensais:
-  - Por equipe
-  - Por membro
-- Usado para promover competitividade e engajamento.
+Brandon Hunt
 
-## 💬 Feedback
-- Membros podem comentar ou dar feedback sobre tarefas e desempenho.
-- Líderes e mentores podem atribuir **feedback positivo** que aumenta pontuação bônus.
+Bruno Ribeiro
 
-## 👤 Papéis do Usuário
-- **Administrador**: gerencia recompensas, acompanha estatísticas globais.
-- **Líder de Equipe**: define tarefas, etapas, desafios e acompanha o progresso da equipe.
-- **Membro**: executa tarefas, participa de desafios e acumula pontos.
+Gabriel Rodrigues
 
-## 🔄 Fluxo base do sistema:
-1. Líder cria projeto e define etapas e desafios
-2. Membros pegam tarefas no quadro (kanban) e as concluem
-3. Ao concluir tarefas ou desafios, recebem pontos
-4. Equipes sobem no ranking e desbloqueiam recompensas
-5. Feedbacks ajudam a reforçar boas práticas
+Ian Nunes
 
+João Novaes
+
+Lucas Rosati
+
+Luís Melo
+
+Vinicius Petribu
